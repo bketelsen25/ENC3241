@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Emily Johnson
+# Your Name Here
 
-Welcome to my technical communication portfolio.
+[Paste your professional paragraph from Week 2 here]
 
 ## Assignments
 
