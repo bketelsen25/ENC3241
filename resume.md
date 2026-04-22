@@ -11,12 +11,16 @@ Orlando, FL 32816 | br104815@ucf.edu | linkedin.com/in/brendanketelsen
 
 Brendan is an Information Technology Major at the University of Central Florida, interested in artificial intelligence, cybersecurity, and game design.
 
+---
+
 EXPERIENCE
 
 Front of House Team Member
 
 PDQ Restaurants | Flamingo Crossings, FL Sept 2022 – Aug 2024
 - Gained valuable experience in communication, customer service, and time management
+
+---
   
 ORGANIZATIONS
 
@@ -33,12 +37,16 @@ Troop 320/Crew 6 | Winter Garden, FL Feb 2023
 - Planned and completed an Eagle Scout Service Project for American Legion Post 63
 - Held several leadership positions and got multiple years of leading and planning experience
 
+---
+
 EDUCATION
 
 B.S. Information Technology
 
 University of Central Florida | Burnett Honors College May 2027 (Anticipated)
 - 3.46 GPA
+
+---
   
 SKILLS
 - Java
@@ -50,6 +58,8 @@ SKILLS
 - Strategy
 - Leadership
 - Problem Solving
+
+---
   
 CERTIFICATIONS
 
