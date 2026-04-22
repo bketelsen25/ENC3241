@@ -5,7 +5,7 @@ title: Resume
 
 # Resume
 
-BRENDAN KETELSEN
+Brendan Ketelsen
 
 Orlando, FL 32816 | br104815@ucf.edu | linkedin.com/in/brendanketelsen
 
