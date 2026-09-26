@@ -11,6 +11,6 @@ Brendan Ketelsen is a junior Honors student and aspiring IT professional. He is 
 ## Professional Writing Samples/Projects
 
 - [Resume](resume.md)
-- [Cover Letter](coverletter.md)
+- [Professional Goals](coverletter.md)
 - [Reflections](instructions.md)
 - [Proposal](proposal.md)
