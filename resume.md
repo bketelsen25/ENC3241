@@ -9,11 +9,21 @@ Brendan Ketelsen
 
 Orlando, FL 32816 | br104815@ucf.edu | linkedin.com/in/brendanketelsen
 
-Brendan is an Information Technology Major at the University of Central Florida, interested in artificial intelligence, cybersecurity, and game design.
+Information Technology major in Burnett Honors College at the University of Central Florida with hands-on experience in network infrastructure, endpoint support, and cyber defense fundamentals. CompTIA A+ and Tech+ certified, interested in networking, cybersecurity, or artificial intelligence. 
 
 ---
 
 EXPERIENCE
+
+Information Technology Technician – Intern
+
+SeaWorld Orlando | Orlando, FL May - Aug 2026
+-Performed hands-on troubleshooting of IT and mechanical equipment, diagnosing hardware, software,
+connectivity, and configuration-related issues across a large-scale theme park environment.
+- Configured, monitored, and maintained physical and digital IT systems, including network
+infrastructure, endpoint hardware, and POS technology, to support daily operations.
+- Collaborated with IT professionals across multiple technical specialties to diagnose and resolve 30+
+support tickets per week, minimizing operational downtime and ensuring system performance. 
 
 Front of House Team Member
 
@@ -44,20 +54,16 @@ EDUCATION
 B.S. Information Technology
 
 University of Central Florida | Burnett Honors College May 2027 (Anticipated)
-- 3.46 GPA
+- 3.58 GPA
 
 ---
   
 SKILLS
-- Java
-- C
-- SQL
+- Java, C, SQL Programming
+- Cisco networking, PuTTY, SolarWinds
+- Windows & Linux administration
 - Microsoft Word, Excel, PowerPoint
-- Adobe Photoshop, InDesign
-- Communication
-- Strategy
-- Leadership
-- Problem Solving
+- Adobe Photoshop, InDesign 
 
 ---
   
@@ -70,5 +76,5 @@ CompTIA Tech+
 Issued Dec 2025
 
 CompTIA A+
-In Progress, Anticipated Jun 2026 
+Issued Jun 2026
 
